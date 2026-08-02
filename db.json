@@ -14,14 +14,16 @@
         "sitLong": true,
         "obese": true,
         "travel": true,
-        "gender": "",
+        "gender": "男",
         "age": "",
-        "height": "",
-        "weight": "",
-        "goalWeight": "",
+        "height": "180",
+        "weight": "89",
+        "goalWeight": "75",
         "goal": "",
         "awakeTime": "07:00",
-        "sleepTime": "23:00"
+        "sleepTime": "23:00",
+        "startWeight": "89",
+        "targetWaist": ""
       },
       "logs": {
         "exercise": [],
