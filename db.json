@@ -3,7 +3,9 @@
     "lxsnfuhe@163.com": {
       "password": "e370df3233bdc024d9401103203f54d49bebcc922f014885f68754b7ecfbd9d2",
       "role": "admin",
-      "createdAt": "2026-08-02"
+      "createdAt": "2026-08-02",
+      "failed": 0,
+      "lockedUntil": null
     }
   },
   "appData": {
